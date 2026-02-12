@@ -16,7 +16,7 @@ INSTA_LINK_1 = "https://instagram.com/wb_look_5000"
 INSTA_LINK_2 = "https://instagram.com/real_krismonte"
 
 # База данных (заполнишь позже)
-DATABASE_URL = ""
+DATABASE_URL = "postgresql://tower_db_100_user:44l7FPFXOaaeFG2HmGo82Vd7TRSowG3z@dpg-d66vgu94tr6s73ak38u0-a/tower_db_100"
 
 # Бонусы
 BONUS_COINS = 1000
